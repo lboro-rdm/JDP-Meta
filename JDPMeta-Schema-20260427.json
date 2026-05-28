@@ -1,0 +1,42 @@
+{
+  "journal": {
+    "name": "",
+    "issn": "",
+    "publisher": {
+      "name": "",
+      "source": "OpenAlex"
+    },
+    "subjects": {
+      "items": [],
+      "source": "OpenAlex"
+    },
+    "open_access": {
+      "status": "",
+      "source": "OpenAlex"
+    },
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "",
+          "standardised": true,
+          "answer": "",
+          "date": "",
+          "source": {
+            "identifier_type": "DOI | Handle | Citation",
+            "identifier": ""
+          }
+        },
+        "question_2": {
+          "text": "",
+          "standardised": true,
+          "answer": "",
+          "date": "",
+          "source": {
+            "identifier_type": "DOI | Handle | Citation",
+            "identifier": ""
+          }
+        }
+      }
+    }
+  }
+}

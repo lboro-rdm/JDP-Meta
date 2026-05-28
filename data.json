@@ -1,0 +1,3980 @@
+[
+  {
+    "journal": "ACTA POLITICA",
+    "issn": "1741-1416",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "AFRICAN AFFAIRS",
+    "issn": "1468-2621",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "ALTERNATIVES",
+    "issn": "2163-3150",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "AMERICAN JOURNAL OF INTERNATIONAL LAW",
+    "issn": "2161-7953",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "AMERICAN JOURNAL OF POLITICAL SCIENCE",
+    "issn": "1540-5907",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Verified",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "AMERICAN POLITICAL SCIENCE REVIEW",
+    "issn": "1537-5943",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "AMERICAN POLITICS RESEARCH",
+    "issn": "1552-3373",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "ANNUAL REVIEW OF POLITICAL SCIENCE",
+    "issn": "1545-1577",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "ARMED FORCES & SOCIETY",
+    "issn": "1556-0848",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "ASIA EUROPE JOURNAL",
+    "issn": "1612-1031",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "ASIAN JOURNAL OF WTO & INTERNATIONAL HEALTH LAW AND POLICY",
+    "issn": null,
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "ASIAN PERSPECTIVE",
+    "issn": "0258-9184",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS",
+    "issn": "1465-332X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "AUSTRALIAN JOURNAL OF POLITICAL SCIENCE",
+    "issn": "1363-030X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "AUSTRALIAN JOURNAL OF POLITICS AND HISTORY",
+    "issn": "1467-8497",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "AUSTRIAN JOURNAL OF POLITICAL SCIENCE",
+    "issn": "2313-5433",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "BRITISH JOURNAL OF POLITICAL SCIENCE",
+    "issn": "1469-2112",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "BRITISH JOURNAL OF POLITICS & INTERNATIONAL RELATIONS",
+    "issn": "1467-856X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "BRITISH POLITICS",
+    "issn": "1746-9198",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "BUSINESS AND POLITICS",
+    "issn": "1469-3569",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CAMBRIDGE REVIEW OF INTERNATIONAL AFFAIRS",
+    "issn": "1474-449X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CHINESE JOURNAL OF INTERNATIONAL LAW",
+    "issn": "1746-9937",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CHINESE JOURNAL OF INTERNATIONAL POLITICS",
+    "issn": "1750-8924",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CITIZENSHIP STUDIES",
+    "issn": "1469-3593",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "COMMON MARKET LAW REVIEW",
+    "issn": "1875-8320",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "COMMUNIST AND POST-COMMUNIST STUDIES",
+    "issn": "1873-6920",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "COMPARATIVE EUROPEAN POLITICS",
+    "issn": "1740-388X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "COMPARATIVE POLITICAL STUDIES",
+    "issn": "1552-3829",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "COMPARATIVE POLITICS",
+    "issn": "2151-6227",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CONFLICT MANAGEMENT AND PEACE SCIENCE",
+    "issn": "1549-9219",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CONTEMPORARY POLITICAL THEORY",
+    "issn": "1476-9336",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CONTEMPORARY POLITICS",
+    "issn": "1469-3631",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CONTEMPORARY SECURITY POLICY",
+    "issn": "1743-8764",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CONTEMPORARY SOUTHEAST ASIA",
+    "issn": "1793-284X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "COOPERATION AND CONFLICT",
+    "issn": "1460-3691",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CORNELL INTERNATIONAL LAW JOURNAL",
+    "issn": "1930-7977",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CRITICAL POLICY STUDIES",
+    "issn": "1946-018X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CRITICAL REVIEW",
+    "issn": "1933-8007",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "CURRENT HISTORY",
+    "issn": "1944-785X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "DEMOCRATIZATION",
+    "issn": "1743-890X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "DIPLOMACY & STATECRAFT",
+    "issn": "1557-301X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EAST EUROPEAN POLITICS",
+    "issn": "2159-9173",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EAST EUROPEAN POLITICS AND SOCIETIES",
+    "issn": "1533-8371",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "ECONOMICS & POLITICS",
+    "issn": "1468-0343",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "ELECTORAL STUDIES",
+    "issn": "1873-6890",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EMERGING MARKETS FINANCE AND TRADE",
+    "issn": "1558-0938",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "ENVIRONMENTAL POLITICS",
+    "issn": "1743-8934",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "ETHICS & GLOBAL POLITICS",
+    "issn": "1654-6369",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "ETHICS & INTERNATIONAL AFFAIRS",
+    "issn": "1747-7093",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EUROPEAN HISTORY QUARTERLY",
+    "issn": "1461-7110",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EUROPEAN JOURNAL OF INTERNATIONAL LAW",
+    "issn": "1464-3596",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EUROPEAN JOURNAL OF INTERNATIONAL RELATIONS",
+    "issn": "1460-3713",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EUROPEAN JOURNAL OF POLITICAL ECONOMY",
+    "issn": "1873-5703",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EUROPEAN JOURNAL OF POLITICAL RESEARCH",
+    "issn": "1475-6765",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EUROPEAN POLITICAL SCIENCE",
+    "issn": "1682-0983",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EUROPEAN POLITICAL SCIENCE REVIEW",
+    "issn": "1755-7747",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EUROPEAN SECURITY",
+    "issn": "1746-1545",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EUROPEAN UNION POLITICS",
+    "issn": "1741-2757",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "EUROPE-ASIA STUDIES",
+    "issn": "1465-3427",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "FOREIGN POLICY ANALYSIS",
+    "issn": "1743-8594",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Verified",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "FORUM-A JOURNAL OF APPLIED RESEARCH IN CONTEMPORARY POLITICS",
+    "issn": "1540-8884",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "GEOPOLITICS",
+    "issn": "1557-3028",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "GERMAN POLITICS",
+    "issn": "1743-8993",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "GLOBAL ENVIRONMENTAL POLITICS",
+    "issn": "1536-0091",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "GLOBAL GOVERNANCE",
+    "issn": "1942-6720",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "GLOBALIZATIONS",
+    "issn": "1474-774X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "GLOBAL POLICY",
+    "issn": "1758-5899",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "GOVERNANCE-AN INTERNATIONAL JOURNAL OF POLICY ADMINISTRATION AND INSTITUTIONS",
+    "issn": "1468-0491",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "GOVERNMENT AND OPPOSITION",
+    "issn": "1477-7053",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "HISTORICAL MATERIALISM-RESEARCH IN CRITICAL MARXIST THEORY",
+    "issn": "1569-206X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "HUMAN RIGHTS LAW REVIEW",
+    "issn": "1744-1021",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "HUMAN RIGHTS QUARTERLY",
+    "issn": "1085-794X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INDEPENDENT REVIEW",
+    "issn": "2169-3420",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTELLIGENCE AND NATIONAL SECURITY",
+    "issn": "1743-9019",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL AFFAIRS",
+    "issn": "1468-2346",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL ENVIRONMENTAL AGREEMENTS-POLITICS LAW AND ECONOMICS",
+    "issn": "1573-1553",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL FEMINIST JOURNAL OF POLITICS",
+    "issn": "1468-4470",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL INTERACTIONS",
+    "issn": "1547-7444",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL JOURNAL OF CONFLICT AND VIOLENCE",
+    "issn": "1864-1385",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL JOURNAL OF PRESS-POLITICS",
+    "issn": "1940-1620",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL JOURNAL OF PUBLIC OPINION RESEARCH",
+    "issn": "1471-6909",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL JOURNAL OF TRANSITIONAL JUSTICE",
+    "issn": "1752-7724",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL ORGANIZATION",
+    "issn": "1531-5088",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Verified",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL PEACEKEEPING",
+    "issn": "1743-906X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL POLITICAL SCIENCE REVIEW",
+    "issn": "1460-373X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL POLITICAL SOCIOLOGY",
+    "issn": "1749-5687",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL POLITICS",
+    "issn": "1740-3898",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL RELATIONS",
+    "issn": "1741-2862",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL RELATIONS OF THE ASIA-PACIFIC",
+    "issn": "1470-4838",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL SECURITY",
+    "issn": "1531-4804",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL STUDIES PERSPECTIVES",
+    "issn": "1528-3585",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL STUDIES QUARTERLY",
+    "issn": "1468-2478",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Verified",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL STUDIES REVIEW",
+    "issn": "1468-2486",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTERNATIONAL THEORY",
+    "issn": "1752-9727",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "IRISH POLITICAL STUDIES",
+    "issn": "1743-9078",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JAPANESE JOURNAL OF POLITICAL SCIENCE",
+    "issn": "1474-0060",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JCMS-JOURNAL OF COMMON MARKET STUDIES",
+    "issn": "1468-5965",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF AUSTRALIAN POLITICAL ECONOMY",
+    "issn": "1839-3675",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF CHINESE GOVERNANCE",
+    "issn": "2381-2354",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF CHINESE POLITICAL SCIENCE",
+    "issn": "1874-6357",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF COLD WAR STUDIES",
+    "issn": "1531-3298",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF CONFLICT RESOLUTION",
+    "issn": "1552-8766",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF CONTEMPORARY EUROPEAN STUDIES",
+    "issn": "1478-2790",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF CURRENT SOUTHEAST ASIAN AFFAIRS",
+    "issn": "1868-4882",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF DEMOCRACY",
+    "issn": "1086-3214",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF ELECTIONS PUBLIC OPINION AND PARTIES",
+    "issn": "1745-7297",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF EUROPEAN INTEGRATION",
+    "issn": "1477-2280",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF EUROPEAN PUBLIC POLICY",
+    "issn": "1466-4429",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF HUMAN RIGHTS",
+    "issn": "1475-4843",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF INFORMATION TECHNOLOGY & POLITICS",
+    "issn": "1933-169X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF INTERNATIONAL RELATIONS AND DEVELOPMENT",
+    "issn": "1581-1980",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF INTERVENTION AND STATEBUILDING",
+    "issn": "1750-2985",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF PEACE RESEARCH",
+    "issn": "1460-3578",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF POLITICAL IDEOLOGIES",
+    "issn": "1469-9613",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF POLITICAL PHILOSOPHY",
+    "issn": "1467-9760",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF POLITICS",
+    "issn": "1468-2508",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Verified",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF PUBLIC ADMINISTRATION RESEARCH AND THEORY",
+    "issn": "1477-9803",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF PUBLIC POLICY",
+    "issn": "1469-7815",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF STRATEGIC STUDIES",
+    "issn": "1743-937X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF THE JAPANESE AND INTERNATIONAL ECONOMIES",
+    "issn": "1095-8681",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF THEORETICAL POLITICS",
+    "issn": "1460-3667",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF WOMEN POLITICS & POLICY",
+    "issn": "1554-4788",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF WORLD TRADE",
+    "issn": "2210-2795",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "KOREAN JOURNAL OF DEFENSE ANALYSIS",
+    "issn": "1941-4641",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "KOREA OBSERVER",
+    "issn": "0023-3919",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "LATIN AMERICAN PERSPECTIVES",
+    "issn": "1552-678X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "LATIN AMERICAN POLITICS AND SOCIETY",
+    "issn": "1548-2456",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "LEGISLATIVE STUDIES QUARTERLY",
+    "issn": "1939-9162",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "LOCAL GOVERNMENT STUDIES",
+    "issn": "1743-9388",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "MARINE POLICY",
+    "issn": "1872-9460",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "MEDITERRANEAN POLITICS",
+    "issn": "1743-9418",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "MIDDLE EAST POLICY",
+    "issn": "1475-4967",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "MILLENNIUM-JOURNAL OF INTERNATIONAL STUDIES",
+    "issn": "1477-9021",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "NATIONALITIES PAPERS-THE JOURNAL OF NATIONALISM AND ETHNICITY",
+    "issn": "1465-3923",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "NATIONS AND NATIONALISM",
+    "issn": "1469-8129",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "NEW POLITICAL ECONOMY",
+    "issn": "1469-9923",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "OCEAN DEVELOPMENT AND INTERNATIONAL LAW",
+    "issn": "1521-0642",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PACIFIC FOCUS",
+    "issn": "1976-5118",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PACIFIC REVIEW",
+    "issn": "1470-1332",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PARLIAMENTARY AFFAIRS",
+    "issn": "1460-2482",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PARTY POLITICS",
+    "issn": "1460-3683",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PEACEBUILDING",
+    "issn": "2164-7267",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PERSPECTIVES ON POLITICS",
+    "issn": "1541-0986",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PHILOSOPHY & PUBLIC AFFAIRS",
+    "issn": "1088-4963",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLICY AND INTERNET",
+    "issn": "1944-2866",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLICY AND POLITICS",
+    "issn": "1470-8442",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLICY AND SOCIETY",
+    "issn": "1839-3373",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLICY STUDIES JOURNAL",
+    "issn": "1541-0072",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL ANALYSIS",
+    "issn": "1476-4989",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL BEHAVIOR",
+    "issn": "1573-6687",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL COMMUNICATION",
+    "issn": "1091-7675",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL GEOGRAPHY",
+    "issn": "1873-5096",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL PSYCHOLOGY",
+    "issn": "1467-9221",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL QUARTERLY",
+    "issn": "1467-923X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL RESEARCH QUARTERLY",
+    "issn": "1938-274X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL SCIENCE",
+    "issn": "2041-0611",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL SCIENCE QUARTERLY",
+    "issn": "1538-165X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL SCIENCE RESEARCH AND METHODS",
+    "issn": "2049-8489",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Verified",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL STUDIES",
+    "issn": "1467-9248",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL STUDIES REVIEW",
+    "issn": "1478-9302",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICAL THEORY",
+    "issn": "1552-7476",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICS",
+    "issn": "1467-9256",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICS AND GOVERNANCE",
+    "issn": "2183-2463",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICS AND RELIGION",
+    "issn": "1755-0491",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICS & GENDER",
+    "issn": "1743-9248",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICS GROUPS AND IDENTITIES",
+    "issn": "2156-5511",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICS PHILOSOPHY & ECONOMICS",
+    "issn": "1741-3060",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICS RELIGION & IDEOLOGY",
+    "issn": "2156-7697",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICS & SOCIETY",
+    "issn": "1552-7514",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITIKON",
+    "issn": "1470-1014",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITY",
+    "issn": "1744-1684",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POST-SOVIET AFFAIRS",
+    "issn": "1938-2855",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PRESIDENTIAL STUDIES QUARTERLY",
+    "issn": "1741-5705",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PROBLEMS OF POST-COMMUNISM",
+    "issn": "1557-783X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PS-POLITICAL SCIENCE & POLITICS",
+    "issn": "1537-5935",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PUBLIC ADMINISTRATION",
+    "issn": "1467-9299",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PUBLIC CHOICE",
+    "issn": "1573-7101",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PUBLIC OPINION QUARTERLY",
+    "issn": "1537-5331",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "PUBLIUS-THE JOURNAL OF FEDERALISM",
+    "issn": "1747-7107",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "QUARTERLY JOURNAL OF POLITICAL SCIENCE",
+    "issn": "1554-0634",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Verified",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "REGULATION & GOVERNANCE",
+    "issn": "1748-5991",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "RESEARCH & POLITICS",
+    "issn": "2053-1680",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "REVIEW OF AFRICAN POLITICAL ECONOMY",
+    "issn": "1740-1720",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "REVIEW OF INTERNATIONAL ORGANIZATIONS",
+    "issn": "1559-744X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "REVIEW OF INTERNATIONAL POLITICAL ECONOMY",
+    "issn": "1466-4526",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "REVIEW OF INTERNATIONAL STUDIES",
+    "issn": "1469-9044",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "REVIEW OF POLICY RESEARCH",
+    "issn": "1541-1338",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "REVIEW OF WORLD ECONOMICS",
+    "issn": "1610-2886",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "REVISTA BRASILEIRA DE POLITICA INTERNACIONAL",
+    "issn": "1983-3121",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "SCANDINAVIAN POLITICAL STUDIES",
+    "issn": "1467-9477",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "SCOTTISH JOURNAL OF POLITICAL ECONOMY",
+    "issn": "1467-9485",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "SECURITY DIALOGUE",
+    "issn": "1460-3640",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "SECURITY STUDIES",
+    "issn": "1556-1852",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "SOCIAL MOVEMENT STUDIES",
+    "issn": "1474-2829",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "SOCIAL SCIENCE QUARTERLY",
+    "issn": "1540-6237",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "SOCIO-ECONOMIC REVIEW",
+    "issn": "1475-147X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "SOUTH EUROPEAN SOCIETY AND POLITICS",
+    "issn": "1743-9612",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "SPACE POLICY",
+    "issn": "1879-338X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "STATE POLITICS & POLICY QUARTERLY",
+    "issn": "1946-1607",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "STUDIES IN AMERICAN POLITICAL DEVELOPMENT",
+    "issn": "1469-8692",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "STUDIES IN COMPARATIVE INTERNATIONAL DEVELOPMENT",
+    "issn": "1936-6167",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "STUDIES IN CONFLICT & TERRORISM",
+    "issn": "1521-0731",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "SURVIVAL",
+    "issn": "1468-2699",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "TELOS",
+    "issn": "1940-459X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "TERRITORY POLITICS GOVERNANCE",
+    "issn": "2162-268X",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "TERRORISM AND POLITICAL VIOLENCE",
+    "issn": "1556-1836",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "WAR IN HISTORY",
+    "issn": "1477-0385",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "WEST EUROPEAN POLITICS",
+    "issn": "1743-9655",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "WORLD ECONOMY",
+    "issn": "1467-9701",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "WORLD POLITICS",
+    "issn": "1086-3338",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Required",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "WORLD TRADE REVIEW",
+    "issn": "1475-3138",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Verified",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "NEW POLITICAL SCIENCE",
+    "issn": null,
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "URBAN AFFAIRS REVIEW",
+    "issn": "1552-8332",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "REVIEW OF RESEARCH POLICY",
+    "issn": null,
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "POLITICS AND GENDER",
+    "issn": "1743-9248",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "INTEREST GROUPS AND ADVOCACY",
+    "issn": "2047-7422",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF EXPERIMENTAL POLITICAL SCIENCE",
+    "issn": "2052-2649",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Verified",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF RACE, ETHNICTY, AND POLITICS",
+    "issn": null,
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "QUALITATIVE AND MULTI-METHOD RESEARCH",
+    "issn": null,
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "AMERICAN POLITICAL THOUGHT",
+    "issn": "1580-2164",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "No Policy",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": "JOURNAL OF LAW AND COURTS",
+    "issn": "2164-6589",
+    "audit": {
+      "questions": {
+        "question_1": {
+          "text": "data_sharing",
+          "standardised": true,
+          "answer": "Encouraged",
+          "date": "2024",
+          "source": {
+            "identifier_type": "DOI",
+            "identifier": "10.7910/DVN/0YSJCX"
+          }
+        }
+      }
+    }
+  }
+]
