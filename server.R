@@ -10,12 +10,14 @@ server <- function(input, output, session) {
     showModal(modalDialog(
       title = "About this app",
       tagList(
-        h5("Version 1, 2026-06-01", style = "margin-top:1.2em; font-weight:700;"),
+        h5("Version 1.1, 2026-06-04", style = "margin-top:1.2em; font-weight:700;"),
         p("This app lets you explore journal data policies. It was created by Lara Skelly, for Loughborough University, with the assistance of Claude.ai."),
         h5("Data", style = "margin-top:1.2em; font-weight:700;"),
         p("Journal metadata (publisher, open-access status, subjects) is sourced
           from ", a("OpenAlex", href = "https://openalex.org", target = "_blank"),
           ". Policy audit answers are from ", a("Rainey & Roe (2024).", href = "https://doi.org/10.7910/DVN/0YSJCX", target = "_blank")),
+        h5("Acknowledgements", style = "margin-top:1.2em; font-weight:700;"),
+        p("Beta viewers: Katie Fraser (Loughborough University), Nicola Howe (Newcastle University)"),
         h5("More information", style = "margin-top:1.2em; font-weight:700;"),
         p(a("JDPMeta project", href = "https://doi.org/10.17605/OSF.IO/5JRSU", target = "_blank")),
         p(a("GitHub", href = "https://github.com/lboro-rdm/JDP-Meta", target = "_blank")),

@@ -19,6 +19,12 @@ ui <- fluidPage(
             box-shadow: 0 1px 4px rgba(0,0,0,.07); background: white; }
   "))),
   
+  tags$script(HTML("
+  $(document).ready(function(){
+    $('[data-toggle=\"tooltip\"]').tooltip({ html: true });
+  });
+")),
+  
   div(class = "title-bar",
       div(style = "display:flex; justify-content:space-between; align-items:center;",
           div(
@@ -41,9 +47,31 @@ ui <- fluidPage(
              selectInput("pub", "Publisher", publishers, width = "100%"),
              selectInput("oa",  "Open Access", oa_opts,  width = "100%"),
              checkboxGroupInput("policy", "Data-sharing policy",
-                                choices  = policy_levels,
-                                selected = policy_levels,
-                                inline   = FALSE
+                                choiceNames = list(
+                                  tags$span("No Policy",
+                                            tags$i(class = "glyphicon glyphicon-info-sign",
+                                                   style = "color:#888; margin-left:5px; cursor:help;",
+                                                   `data-toggle` = "tooltip", `data-placement` = "right",
+                                                   title = "The journal does not have a posted policy that encourages or requires authors to share their data and/or code with the published article (or explicitly states that there is no sharing policy in place).")),
+                                  tags$span("Encouraged",
+                                            tags$i(class = "glyphicon glyphicon-info-sign",
+                                                   style = "color:#888; margin-left:5px; cursor:help;",
+                                                   `data-toggle` = "tooltip", `data-placement` = "right",
+                                                   title = "The journal has a posted policy that encourages (but does not require) authors to share their data and/or code with the published article.")),
+                                  tags$span("Required",
+                                            tags$i(class = "glyphicon glyphicon-info-sign",
+                                                   style = "color:#888; margin-left:5px; cursor:help;",
+                                                   `data-toggle` = "tooltip", `data-placement` = "right",
+                                                   title = "The journal has a posted policy that requires authors to share their data and/or code with the published article (but the journal does not verify the results).")),
+                                  tags$span("Verified",
+                                            tags$i(class = "glyphicon glyphicon-info-sign",
+                                                   style = "color:#888; margin-left:5px; cursor:help;",
+                                                   `data-toggle` = "tooltip", `data-placement` = "right",
+                                                   title = "The journal has a posted policy that requires authors to share their data and/or code with the published article and the journal verifies the results."))
+                                ),
+                                choiceValues = policy_levels,
+                                selected     = policy_levels,
+                                inline       = FALSE
              )
            )
     ),
