@@ -1,0 +1,3050 @@
+[
+  {
+    "journal": {
+      "name": "Annals of the New York Academy of Sciences",
+      "issn": "0077-8923",
+      "publisher": {
+        "name": "Wiley",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Cellular and Molecular Neuroscience",
+          "Molecular Biology",
+          "Immunology",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Behavioral Neuroscience",
+          "Social Psychology",
+          "Surgery",
+          "Nutrition and Dietetics",
+          "Physiology",
+          "Parasitology",
+          "Cardiology and Cardiovascular Medicine",
+          "Neurology",
+          "Genetics",
+          "Sensory Systems",
+          "Infectious Diseases",
+          "Cognitive Neuroscience",
+          "Biochemistry"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Applied and Environmental Microbiology",
+      "issn": "0099-2240",
+      "publisher": {
+        "name": "American Society for Microbiology",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Ecology",
+          "Food Science",
+          "Molecular Biology",
+          "Genetics",
+          "Pollution",
+          "Biomedical Engineering",
+          "Infectious Diseases",
+          "Plant Science",
+          "Endocrinology",
+          "Biotechnology",
+          "Environmental Engineering",
+          "Immunology",
+          "Nutrition and Dietetics",
+          "Oceanography"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Biochemical and Biophysical Research Communications",
+      "issn": "0006-291X",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Surgery",
+          "Materials Chemistry",
+          "Physiology",
+          "Immunology and Allergy",
+          "Clinical Biochemistry",
+          "Cancer Research",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Biochemistry",
+          "Oncology",
+          "Cellular and Molecular Neuroscience"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Acta Biochimica et Biophysica Sinica",
+      "issn": "1672-9145",
+      "publisher": {
+        "name": "Oxford University Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Cancer Research",
+          "Epidemiology",
+          "Cell Biology",
+          "Oncology",
+          "Genetics",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Immunology and Allergy"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Bioinformatics",
+      "issn": "1367-4803",
+      "publisher": {
+        "name": "Oxford University Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Genetics",
+          "Computational Theory and Mathematics",
+          "Biophysics",
+          "Spectroscopy",
+          "Materials Chemistry",
+          "Cancer Research"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Blood",
+      "issn": "0006-4971",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Hematology",
+          "Genetics",
+          "Pathology and Forensic Medicine",
+          "Public Health, Environmental and Occupational Health",
+          "Oncology",
+          "Immunology",
+          "Physiology",
+          "Molecular Biology",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Immunology and Allergy",
+          "Rheumatology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "BMC Bioinformatics",
+      "issn": "1471-2105",
+      "publisher": {
+        "name": "BioMed Central",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Genetics",
+          "Computational Theory and Mathematics",
+          "Biophysics",
+          "Spectroscopy",
+          "Cancer Research",
+          "Materials Chemistry"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "BMC Cancer",
+      "issn": "1471-2407",
+      "publisher": {
+        "name": "BioMed Central",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Oncology",
+          "Pulmonary and Respiratory Medicine",
+          "Cancer Research",
+          "Otorhinolaryngology",
+          "Hepatology",
+          "Surgery",
+          "Obstetrics and Gynecology",
+          "Epidemiology",
+          "Genetics"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "BMC Genomics",
+      "issn": "1471-2164",
+      "publisher": {
+        "name": "BioMed Central",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Plant Science",
+          "Genetics",
+          "Cancer Research",
+          "Immunology",
+          "Cellular and Molecular Neuroscience"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "British Journal of Cancer",
+      "issn": "0007-0920",
+      "publisher": {
+        "name": "Springer Nature",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Oncology",
+          "Cancer Research",
+          "Pulmonary and Respiratory Medicine",
+          "Genetics",
+          "Immunology",
+          "Pathology and Forensic Medicine",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Reproductive Medicine",
+          "Molecular Biology",
+          "Biotechnology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Breast Cancer Research",
+      "issn": "1465-5411",
+      "publisher": {
+        "name": "BioMed Central",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Cancer Research",
+          "Oncology",
+          "Pathology and Forensic Medicine",
+          "Genetics",
+          "Pulmonary and Respiratory Medicine",
+          "Artificial Intelligence",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Molecular Biology",
+          "Immunology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Cancer",
+      "issn": "0008-543X",
+      "publisher": {
+        "name": "Wiley",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Pathology and Forensic Medicine",
+          "Cancer Research",
+          "Oncology",
+          "Pulmonary and Respiratory Medicine",
+          "Otorhinolaryngology",
+          "Public Health, Environmental and Occupational Health",
+          "Reproductive Medicine",
+          "Hematology",
+          "Genetics",
+          "Epidemiology",
+          "Pediatrics, Perinatology and Child Health",
+          "Obstetrics and Gynecology",
+          "Neurology",
+          "Hepatology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Cancer Letters",
+      "issn": "0304-3835",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Cancer Research",
+          "Oncology",
+          "Economics and Econometrics",
+          "Aerospace Engineering",
+          "Molecular Biology",
+          "Artificial Intelligence",
+          "Immunology",
+          "Genetics",
+          "Biotechnology",
+          "Immunology and Allergy"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Cancer Research",
+      "issn": "0008-5472",
+      "publisher": {
+        "name": "American Association for Cancer Research",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Cancer Research",
+          "Molecular Biology",
+          "Biotechnology",
+          "Oncology",
+          "Pulmonary and Respiratory Medicine",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Immunology",
+          "Genetics",
+          "Biomedical Engineering"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Carcinogenesis",
+      "issn": "0143-3334",
+      "publisher": {
+        "name": "Oxford University Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Cancer Research",
+          "Molecular Biology",
+          "Oncology",
+          "Genetics",
+          "Pharmacology",
+          "Pathology and Forensic Medicine",
+          "Economics and Econometrics",
+          "Biochemistry",
+          "Aerospace Engineering",
+          "Health, Toxicology and Mutagenesis"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Cell",
+      "issn": "0092-8674",
+      "publisher": {
+        "name": "Cell Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Cell Biology",
+          "Genetics",
+          "Immunology",
+          "Ecology",
+          "Cellular and Molecular Neuroscience",
+          "Plant Science",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Aging"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Clinical Cancer Research",
+      "issn": "1078-0432",
+      "publisher": {
+        "name": "American Association for Cancer Research",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Oncology",
+          "Pulmonary and Respiratory Medicine",
+          "Cancer Research",
+          "Immunology",
+          "Biotechnology",
+          "Molecular Biology",
+          "Genetics",
+          "Reproductive Medicine",
+          "Radiology, Nuclear Medicine and Imaging"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Developmental Biology",
+      "issn": "0012-1606",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Cellular and Molecular Neuroscience",
+          "Public Health, Environmental and Occupational Health",
+          "Aging",
+          "Genetics",
+          "Economics and Econometrics",
+          "Aerospace Engineering",
+          "Cell Biology",
+          "Developmental Neuroscience",
+          "Reproductive Medicine",
+          "Artificial Intelligence",
+          "Immunology and Allergy"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Experimental Cell Research",
+      "issn": "0014-4827",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Immunology and Allergy",
+          "Cell Biology",
+          "Molecular Biology",
+          "Economics and Econometrics",
+          "Artificial Intelligence",
+          "Aerospace Engineering",
+          "Surgery",
+          "Physiology",
+          "Oncology",
+          "Public Health, Environmental and Occupational Health"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "The FASEB Journal",
+      "issn": "0892-6638",
+      "publisher": {
+        "name": "Wiley",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Physiology",
+          "Molecular Biology",
+          "Endocrine and Autonomic Systems",
+          "Cardiology and Cardiovascular Medicine",
+          "Public Health, Environmental and Occupational Health",
+          "Pediatrics, Perinatology and Child Health",
+          "Complementary and alternative medicine",
+          "Cell Biology",
+          "Biochemistry",
+          "Epidemiology",
+          "Immunology and Allergy",
+          "Cancer Research",
+          "Cellular and Molecular Neuroscience",
+          "Pulmonary and Respiratory Medicine"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "FEBS Letters",
+      "issn": "0014-5793",
+      "publisher": {
+        "name": "Wiley",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Materials Chemistry",
+          "Cell Biology",
+          "Genetics",
+          "Cellular and Molecular Neuroscience",
+          "Surgery",
+          "Economics and Econometrics",
+          "Clinical Biochemistry",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Oncology",
+          "Ecology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": null,
+      "issn": "1093-9946",
+      "publisher": {
+        "name": null,
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": {},
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": null,
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Gene",
+      "issn": "0378-1119",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Genetics",
+          "Ecology",
+          "Economics and Econometrics",
+          "Aerospace Engineering",
+          "Cancer Research",
+          "Artificial Intelligence",
+          "Plant Science"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Gene Expression Patterns",
+      "issn": "1567-133X",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Economics and Econometrics",
+          "Aerospace Engineering",
+          "Genetics",
+          "Cell Biology",
+          "Artificial Intelligence",
+          "Cellular and Molecular Neuroscience",
+          "Developmental Neuroscience",
+          "Public Health, Environmental and Occupational Health",
+          "Cancer Research",
+          "Immunology and Allergy",
+          "Reproductive Medicine"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Genes Chromosomes and Cancer",
+      "issn": "1045-2257",
+      "publisher": {
+        "name": "Wiley",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Cancer Research",
+          "Genetics",
+          "Pulmonary and Respiratory Medicine",
+          "Hematology",
+          "Pathology and Forensic Medicine",
+          "Molecular Biology",
+          "Public Health, Environmental and Occupational Health",
+          "Oncology",
+          "Neurology",
+          "Plant Science"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": null,
+      "issn": "1474-760X",
+      "publisher": {
+        "name": null,
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": {},
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": null,
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Genome Research",
+      "issn": "1088-9051",
+      "publisher": {
+        "name": "Cold Spring Harbor Laboratory Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Plant Science",
+          "Genetics",
+          "Cancer Research",
+          "Ecology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Genomics",
+      "issn": "0888-7543",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Plant Science",
+          "Genetics",
+          "Cancer Research",
+          "Immunology and Allergy",
+          "Economics and Econometrics"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Human Molecular Genetics",
+      "issn": "0964-6906",
+      "publisher": {
+        "name": "Oxford University Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Cellular and Molecular Neuroscience",
+          "Genetics",
+          "Economics and Econometrics",
+          "Cell Biology",
+          "Aerospace Engineering",
+          "Neurology",
+          "Artificial Intelligence",
+          "Clinical Biochemistry",
+          "Physiology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+      "issn": "1545-5963",
+      "publisher": {
+        "name": "Institute of Electrical and Electronics Engineers",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Computational Theory and Mathematics",
+          "Artificial Intelligence",
+          "Economics and Econometrics",
+          "Cancer Research",
+          "Aerospace Engineering",
+          "Genetics",
+          "Biophysics"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Infection and Immunity",
+      "issn": "0019-9567",
+      "publisher": {
+        "name": "American Society for Microbiology",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Endocrinology",
+          "Immunology",
+          "Microbiology",
+          "Public Health, Environmental and Occupational Health",
+          "Epidemiology",
+          "Infectious Diseases",
+          "Genetics",
+          "Parasitology",
+          "Ecology",
+          "Food Science",
+          "Periodontics",
+          "Molecular Biology",
+          "Molecular Medicine"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "International Journal of Cancer",
+      "issn": "0020-7136",
+      "publisher": {
+        "name": "Wiley",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Immunology",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Pathology and Forensic Medicine",
+          "Epidemiology",
+          "Oncology",
+          "Cancer Research",
+          "Genetics",
+          "Immunology and Allergy",
+          "Molecular Biology",
+          "Biotechnology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "International Journal of Molecular Medicine",
+      "issn": "1107-3756",
+      "publisher": {
+        "name": "Spandidos Publishing",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Cancer Research",
+          "Molecular Biology",
+          "Epidemiology",
+          "Immunology",
+          "Genetics",
+          "Immunology and Allergy",
+          "Oncology",
+          "Physiology",
+          "Rheumatology",
+          "Cell Biology",
+          "Surgery"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "International Journal of Oncology",
+      "issn": "1019-6439",
+      "publisher": {
+        "name": "Spandidos Publishing",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Oncology",
+          "Cancer Research",
+          "Immunology",
+          "Biotechnology",
+          "Immunology and Allergy",
+          "Genetics",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Pathology and Forensic Medicine"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Journal of Bacteriology",
+      "issn": "0021-9193",
+      "publisher": {
+        "name": "American Society for Microbiology",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Genetics",
+          "Ecology",
+          "Molecular Biology",
+          "Materials Chemistry",
+          "Molecular Medicine",
+          "Biochemistry",
+          "Plant Science",
+          "Endocrinology",
+          "Food Science",
+          "Biotechnology",
+          "Infectious Diseases",
+          "Public Health, Environmental and Occupational Health"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Journal of Biological Chemistry",
+      "issn": "0021-9258",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Materials Chemistry",
+          "Cell Biology",
+          "Genetics",
+          "Immunology and Allergy",
+          "Surgery",
+          "Clinical Biochemistry",
+          "Biochemistry",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Cellular and Molecular Neuroscience"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Journal of Clinical Oncology",
+      "issn": "0732-183X",
+      "publisher": {
+        "name": "Lippincott Williams & Wilkins",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Pulmonary and Respiratory Medicine",
+          "Oncology",
+          "Cancer Research",
+          "Economics and Econometrics",
+          "Pathology and Forensic Medicine",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Epidemiology",
+          "Surgery",
+          "Hepatology",
+          "Genetics",
+          "Otorhinolaryngology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Journal of Experimental Botany",
+      "issn": "0022-0957",
+      "publisher": {
+        "name": "Oxford University Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Plant Science",
+          "Molecular Biology",
+          "Global and Planetary Change",
+          "Ecology, Evolution, Behavior and Systematics",
+          "Renewable Energy, Sustainability and the Environment"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "The Journal of Immunology",
+      "issn": "0022-1767",
+      "publisher": {
+        "name": "American Association of Immunologists",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Immunology",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Oncology",
+          "Immunology and Allergy",
+          "Molecular Biology",
+          "Physiology",
+          "Genetics",
+          "Virology",
+          "Epidemiology",
+          "Cancer Research"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Journal of Leukocyte Biology",
+      "issn": "0741-5400",
+      "publisher": {
+        "name": "Oxford University Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Immunology",
+          "Immunology and Allergy",
+          "Oncology",
+          "Virology",
+          "Economics and Econometrics",
+          "Physiology",
+          "Aerospace Engineering",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Molecular Biology",
+          "Artificial Intelligence",
+          "Neurology",
+          "Cancer Research",
+          "Microbiology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Journal of Neurochemistry",
+      "issn": "0022-3042",
+      "publisher": {
+        "name": "Wiley",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Cellular and Molecular Neuroscience",
+          "Molecular Biology",
+          "Physiology",
+          "Neurology",
+          "Biochemistry",
+          "Clinical Biochemistry",
+          "Cell Biology",
+          "Developmental Neuroscience",
+          "Pharmacology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "The Journal of Pathology",
+      "issn": "0022-3417",
+      "publisher": {
+        "name": null,
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Immunology and Allergy",
+          "Pathology and Forensic Medicine",
+          "Cancer Research",
+          "Oncology",
+          "Pulmonary and Respiratory Medicine",
+          "Molecular Biology",
+          "Immunology",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Reproductive Medicine",
+          "Surgery",
+          "Nephrology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Journal of Virology",
+      "issn": "0022-538X",
+      "publisher": {
+        "name": "American Society for Microbiology",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Genetics",
+          "Virology",
+          "Epidemiology",
+          "Animal Science and Zoology",
+          "Infectious Diseases",
+          "Ecology",
+          "Cardiology and Cardiovascular Medicine",
+          "Immunology",
+          "Plant Science",
+          "Oncology",
+          "Agronomy and Crop Science",
+          "Public Health, Environmental and Occupational Health",
+          "Molecular Biology",
+          "Hepatology",
+          "Radiology, Nuclear Medicine and Imaging"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Leukemia Research",
+      "issn": "0145-2126",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Hematology",
+          "Genetics",
+          "Public Health, Environmental and Occupational Health",
+          "Pathology and Forensic Medicine",
+          "Molecular Biology",
+          "Immunology",
+          "Rheumatology",
+          "Emergency Medicine",
+          "Economics and Econometrics",
+          "Oncology",
+          "Aerospace Engineering",
+          "Radiology, Nuclear Medicine and Imaging"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Leukemia",
+      "issn": "0887-6924",
+      "publisher": {
+        "name": "Springer Nature",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Hematology",
+          "Genetics",
+          "Public Health, Environmental and Occupational Health",
+          "Pathology and Forensic Medicine",
+          "Immunology",
+          "Molecular Biology",
+          "Rheumatology",
+          "Oncology",
+          "Pediatrics, Perinatology and Child Health",
+          "Cancer Research"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Mammalian Genome",
+      "issn": "0938-8990",
+      "publisher": {
+        "name": "Springer Science+Business Media",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Genetics",
+          "Molecular Biology",
+          "Plant Science",
+          "Physiology",
+          "Cancer Research",
+          "Surgery",
+          "Nutrition and Dietetics"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Microbes and Infection",
+      "issn": "1286-4579",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Immunology",
+          "Public Health, Environmental and Occupational Health",
+          "Infectious Diseases",
+          "Virology",
+          "Aerospace Engineering",
+          "Economics and Econometrics",
+          "Epidemiology",
+          "Artificial Intelligence",
+          "Endocrinology",
+          "Microbiology",
+          "Food Science",
+          "Parasitology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Molecular Cancer Therapeutics",
+      "issn": "1535-7163",
+      "publisher": {
+        "name": "American Association for Cancer Research",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Cancer Research",
+          "Oncology",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Pulmonary and Respiratory Medicine",
+          "Biotechnology",
+          "Molecular Biology",
+          "Cell Biology",
+          "Pathology and Forensic Medicine"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Molecular and Cellular Biology",
+      "issn": "0270-7306",
+      "publisher": {
+        "name": "Taylor & Francis",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Genetics",
+          "Oncology",
+          "Cell Biology",
+          "Cancer Research",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Immunology",
+          "Plant Science"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Molecular Endocrinology",
+      "issn": "0888-8809",
+      "publisher": {
+        "name": "Oxford University Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Genetics",
+          "Endocrinology, Diabetes and Metabolism",
+          "Molecular Biology",
+          "Surgery",
+          "Oncology",
+          "Reproductive Medicine",
+          "Immunology",
+          "Public Health, Environmental and Occupational Health",
+          "Physiology",
+          "Cellular and Molecular Neuroscience",
+          "Cancer Research",
+          "Pulmonary and Respiratory Medicine"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Molecular Immunology",
+      "issn": "0161-5890",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Radiology, Nuclear Medicine and Imaging",
+          "Immunology",
+          "Molecular Biology",
+          "Hematology",
+          "Immunology and Allergy",
+          "Economics and Econometrics",
+          "Aerospace Engineering",
+          "Physiology",
+          "Genetics",
+          "Cancer Research",
+          "Artificial Intelligence"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Molecular Plant-Microbe Interactions",
+      "issn": "0894-0282",
+      "publisher": {
+        "name": "American Phytopathological Society",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Plant Science",
+          "Cell Biology",
+          "Molecular Biology",
+          "Biotechnology",
+          "Endocrinology",
+          "Agronomy and Crop Science",
+          "Insect Science",
+          "Pharmacology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Nature Biotechnology",
+      "issn": "1087-0156",
+      "publisher": {
+        "name": "Nature Portfolio",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Public Health, Environmental and Occupational Health",
+          "Reproductive Medicine",
+          "Molecular Biology",
+          "Physiology",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Plant Science",
+          "Biomedical Engineering",
+          "Biotechnology",
+          "Genetics",
+          "Economics and Econometrics",
+          "Management of Technology and Innovation",
+          "Oncology",
+          "General Agricultural and Biological Sciences",
+          "Cancer Research"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Nature",
+      "issn": "0028-0836",
+      "publisher": {
+        "name": "Nature Portfolio",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Reproductive Medicine",
+          "Astronomy and Astrophysics",
+          "Aerospace Engineering",
+          "Public Health, Environmental and Occupational Health",
+          "Physical and Theoretical Chemistry",
+          "Atmospheric Science",
+          "History and Philosophy of Science",
+          "Economics and Econometrics",
+          "Transportation",
+          "Ecology, Evolution, Behavior and Systematics",
+          "Geophysics",
+          "Molecular Biology",
+          "Statistical and Nonlinear Physics",
+          "Artificial Intelligence",
+          "History"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Nucleic Acids Research",
+      "issn": "0305-1048",
+      "publisher": {
+        "name": "Oxford University Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Genetics",
+          "Ecology",
+          "Plant Science",
+          "Materials Chemistry",
+          "Cancer Research"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "open",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Oncogene",
+      "issn": "0950-9232",
+      "publisher": {
+        "name": "Springer Nature",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Oncology",
+          "Molecular Biology",
+          "Cancer Research",
+          "Cell Biology",
+          "Immunology and Allergy",
+          "Biotechnology",
+          "Pathology and Forensic Medicine",
+          "Immunology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Oncology Reports",
+      "issn": "1021-335X",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Cancer Research",
+          "Molecular Biology",
+          "Oncology",
+          "Pulmonary and Respiratory Medicine",
+          "Biotechnology",
+          "Immunology",
+          "Pathology and Forensic Medicine",
+          "Immunology and Allergy",
+          "Genetics"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Pharmacogenomics",
+      "issn": "1462-2416",
+      "publisher": {
+        "name": "Future Medicine",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Pharmacology",
+          "Oncology",
+          "Genetics",
+          "Pediatrics, Perinatology and Child Health",
+          "Computational Theory and Mathematics",
+          "Molecular Biology",
+          "Cancer Research",
+          "Cardiology and Cardiovascular Medicine",
+          "Public Health, Environmental and Occupational Health",
+          "Infectious Diseases",
+          "Psychiatry and Mental health",
+          "Biochemistry",
+          "Transplantation",
+          "Cellular and Molecular Neuroscience",
+          "Surgery"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Physiological Genomics",
+      "issn": "1094-8341",
+      "publisher": {
+        "name": "American Physical Society",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Physiology",
+          "Genetics",
+          "Cancer Research",
+          "Molecular Biology",
+          "Pediatrics, Perinatology and Child Health",
+          "Cardiology and Cardiovascular Medicine",
+          "Endocrinology, Diabetes and Metabolism",
+          "Ecology",
+          "Endocrine and Autonomic Systems",
+          "Cell Biology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "The Plant Cell",
+      "issn": "1040-4651",
+      "publisher": {
+        "name": "Oxford University Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Plant Science",
+          "Molecular Biology",
+          "Biotechnology",
+          "Biochemistry",
+          "Renewable Energy, Sustainability and the Environment",
+          "Cell Biology",
+          "Genetics"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "The Plant Journal",
+      "issn": "0960-7412",
+      "publisher": {
+        "name": "Wiley",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Plant Science",
+          "Molecular Biology",
+          "Biochemistry",
+          "Genetics",
+          "Biotechnology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Plant Molecular Biology",
+      "issn": "0167-4412",
+      "publisher": {
+        "name": "Springer Science+Business Media",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Plant Science",
+          "Molecular Biology",
+          "Biotechnology",
+          "Renewable Energy, Sustainability and the Environment",
+          "Biochemistry"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "PLANT PHYSIOLOGY",
+      "issn": "0032-0889",
+      "publisher": {
+        "name": "Oxford University Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Plant Science",
+          "Renewable Energy, Sustainability and the Environment",
+          "Biochemistry",
+          "Global and Planetary Change",
+          "Cellular and Molecular Neuroscience"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Planta",
+      "issn": "0032-0935",
+      "publisher": {
+        "name": "Springer Science+Business Media",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Plant Science",
+          "Renewable Energy, Sustainability and the Environment",
+          "Ecology, Evolution, Behavior and Systematics",
+          "Biotechnology",
+          "Biochemistry"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "No Policy",
+            "long_answer": "No mention of sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Proceedings of the National Academy of Sciences",
+      "issn": "0027-8424",
+      "publisher": {
+        "name": "National Academy of Sciences",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Genetics",
+          "Cellular and Molecular Neuroscience",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Immunology",
+          "Ecology",
+          "Materials Chemistry",
+          "Cognitive Neuroscience",
+          "Cell Biology"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "PROTEOMICS",
+      "issn": "1615-9853",
+      "publisher": {
+        "name": "Wiley",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Spectroscopy",
+          "Molecular Biology",
+          "Cell Biology",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Oncology",
+          "Materials Chemistry",
+          "Ecology",
+          "Genetics"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Science",
+      "issn": "0036-8075",
+      "publisher": {
+        "name": "American Association for the Advancement of Science",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Economics and Econometrics",
+          "Reproductive Medicine",
+          "Aerospace Engineering",
+          "History and Philosophy of Science",
+          "Transportation",
+          "Information Systems and Management",
+          "Astronomy and Astrophysics",
+          "Physical and Theoretical Chemistry",
+          "Public Health, Environmental and Occupational Health",
+          "Atmospheric Science",
+          "Artificial Intelligence",
+          "Molecular Biology",
+          "Ecology, Evolution, Behavior and Systematics",
+          "Surgery",
+          "Political Science and International Relations",
+          "Education"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Strong Policy",
+            "long_answer": "A strong and well-described requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Stem Cells",
+      "issn": "1066-5099",
+      "publisher": {
+        "name": "Oxford University Press",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Molecular Biology",
+          "Genetics",
+          "Hematology",
+          "Developmental Neuroscience",
+          "Surgery",
+          "Oncology",
+          "Cancer Research",
+          "Immunology",
+          "Biomedical Engineering",
+          "Physiology",
+          "Cellular and Molecular Neuroscience",
+          "Pulmonary and Respiratory Medicine"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": null,
+      "issn": "1096-6080",
+      "publisher": {
+        "name": null,
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": {},
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": null,
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  },
+  {
+    "journal": {
+      "name": "Virology",
+      "issn": "0042-6822",
+      "publisher": {
+        "name": "Elsevier BV",
+        "source": "OpenAlex"
+      },
+      "subjects": {
+        "items": [
+          "Genetics",
+          "Plant Science",
+          "Ecology",
+          "Animal Science and Zoology",
+          "Epidemiology",
+          "Virology",
+          "Infectious Diseases",
+          "Cardiology and Cardiovascular Medicine",
+          "Molecular Biology",
+          "Public Health, Environmental and Occupational Health",
+          "Agronomy and Crop Science",
+          "Endocrinology",
+          "Immunology",
+          "Radiology, Nuclear Medicine and Imaging",
+          "Economics and Econometrics",
+          "Aerospace Engineering",
+          "Ecology, Evolution, Behavior and Systematics"
+        ],
+        "source": "OpenAlex"
+      },
+      "open_access": {
+        "status": "closed",
+        "source": "OpenAlex"
+      },
+      "audit": {
+        "questions": {
+          "question_2": {
+            "text": "microarray_sharing",
+            "standardised": true,
+            "date": "2008",
+            "source": {
+              "identifier_type": "DOI",
+              "identifier": "10.1038/npre.2008.1700.1"
+            },
+            "short_answer": "Weak Policy",
+            "long_answer": "A weak suggestion or requirement for sharing microarray data."
+          }
+        }
+      }
+    }
+  }
+]

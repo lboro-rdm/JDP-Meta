@@ -13,16 +13,16 @@ server <- function(input, output, session) {
         h5("Version 1.1, 2026-06-04", style = "margin-top:1.2em; font-weight:700;"),
         p("This app lets you explore journal data policies. It was created by Lara Skelly, for Loughborough University, with the assistance of Claude.ai."),
         h5("Data", style = "margin-top:1.2em; font-weight:700;"),
-        p("Journal metadata (publisher, open-access status, subjects) is sourced
-          from ", a("OpenAlex", href = "https://openalex.org", target = "_blank"),
-          ". Policy audit answers are from ", a("Rainey & Roe (2024).", href = "https://doi.org/10.7910/DVN/0YSJCX", target = "_blank")),
+        p("Journal metadata (publisher, open-access status, subjects) is sourced from ",
+          a("OpenAlex", href = "https://openalex.org", target = "_blank"),
+          ". Policy audit answers are from ",
+          a("Rainey & Roe (2024).", href = "https://doi.org/10.7910/DVN/0YSJCX", target = "_blank")),
         h5("Acknowledgements", style = "margin-top:1.2em; font-weight:700;"),
         p("Beta viewers: Katie Fraser (Loughborough University), Nicola Howe (Newcastle University)"),
         h5("More information", style = "margin-top:1.2em; font-weight:700;"),
         p(a("JDPMeta project", href = "https://doi.org/10.17605/OSF.IO/5JRSU", target = "_blank")),
         p(a("GitHub", href = "https://github.com/lboro-rdm/JDP-Meta", target = "_blank")),
         p(a("Accessibility statement", href = "https://doi.org/10.17028/rd.lboro.28525481", target = "_blank"))
-          
       ),
       easyClose = TRUE,
       footer = modalButton("Close")
@@ -68,9 +68,9 @@ server <- function(input, output, session) {
            title = "Data-sharing policy by publisher") +
       theme_minimal(base_size = 13) +
       theme(
-        legend.position  = "bottom",
+        legend.position    = "bottom",
         panel.grid.major.y = element_blank(),
-        plot.title = element_text(face = "bold", color = "#1a3a5c")
+        plot.title         = element_text(face = "bold", color = "#1a3a5c")
       )
   })
   
@@ -94,30 +94,49 @@ server <- function(input, output, session) {
       theme_void(base_size = 13) +
       theme(
         legend.position = "none",
-        plot.title = element_text(face = "bold", color = "#1a3a5c",
-                                  hjust = .5, margin = margin(b = 10))
+        plot.title      = element_text(face = "bold", color = "#1a3a5c",
+                                       hjust = .5, margin = margin(b = 10))
       )
   })
   
   # ── Data table ───────────────────────────────────────────────────────────────
   output$table <- renderDT({
-    filt() |>
+    d <- filt() |>
+      mutate(
+        `Data-sharing Policy` = paste0(
+          '<span title="', htmltools::htmlEscape(long_answer), '" ',
+          'style="cursor:help; border-bottom:1px dotted #666;">',
+          htmltools::htmlEscape(as.character(data_sharing)),
+          '</span>'
+        )
+      ) |>
       select(
         Journal               = journal,
         Publisher             = publisher,
         `Open Access`         = oa_status,
-        `Data-sharing Policy` = data_sharing,
+        `Data-sharing Policy`,
         `Audit Year`          = audit_date
-      ) |>
-      datatable(
-        rownames = FALSE,
-        filter   = "top",
-        options  = list(pageLength = 15, scrollX = TRUE)
-      ) |>
+      )
+    
+    datatable(
+      d,
+      rownames  = FALSE,
+      filter    = "top",
+      escape    = FALSE,
+      options   = list(pageLength = 15, scrollX = TRUE)
+    ) |>
       formatStyle(
         "Data-sharing Policy",
         backgroundColor = styleEqual(
-          policy_levels,
+          paste0('<span title="', htmltools::htmlEscape(
+            c(
+              "The journal does not have a posted policy that encourages or requires authors to share their data and/or code with the published article (or explicitly states that there is no sharing policy in place).",
+              "The journal has a posted policy that encourages (but does not require) authors to share their data and/or code with the published article.",
+              "The journal has a posted policy that requires authors to share their data and/or code with the published article (but the journal does not verify the results).",
+              "The journal has a posted policy that requires authors to share their data and/or code with the published article and the journal verifies the results."
+            )
+          ), '" style="cursor:help; border-bottom:1px dotted #666;">',
+          htmltools::htmlEscape(policy_levels), '</span>'),
           c("#ffe0de", "#ffd8b5", "#cce5f5", "#c9ddf5")
         )
       )
