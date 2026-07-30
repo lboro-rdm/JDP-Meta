@@ -17,6 +17,7 @@ ui <- fluidPage(
                      letter-spacing: .05em; }
     .well { border-radius: 8px; border: none;
             box-shadow: 0 1px 4px rgba(0,0,0,.07); background: white; }
+    .filter-note { font-size: 0.75rem; color: #888; margin-top: -6px; margin-bottom: 12px; }
   "))),
   
   tags$script(HTML("
@@ -29,7 +30,7 @@ ui <- fluidPage(
       div(style = "display:flex; justify-content:space-between; align-items:center;",
           div(
             h2("Journal Data Policies Explorer"),
-            p("Version 1, 2026-01-06")
+            p("Version 3, 2026-07-30 — longitudinal view (2008 & 2024 studies)")
           ),
           actionButton("show_about", "About",
                        style = "background:transparent; border:1px solid rgba(255,255,255,.6);
@@ -46,40 +47,27 @@ ui <- fluidPage(
              h5("Filters", style = "margin-top:0; font-weight:700; color:#1a3a5c;"),
              selectInput("pub", "Publisher", publishers, width = "100%"),
              selectInput("oa",  "Open Access", oa_opts,  width = "100%"),
+             
+             radioButtons("year", "Study",
+                          choiceNames = list("Both (longitudinal)", "2008 study", "2024 study"),
+                          choiceValues = list("All", "2008", "2024"),
+                          selected = "All"),
+             
              checkboxGroupInput("policy", "Data-sharing policy",
-                                choiceNames = list(
-                                  tags$span("No Policy",
-                                            tags$i(class = "glyphicon glyphicon-info-sign",
-                                                   style = "color:#888; margin-left:5px; cursor:help;",
-                                                   `data-toggle` = "tooltip", `data-placement` = "right",
-                                                   title = "The journal does not have a posted policy that encourages or requires authors to share their data and/or code with the published article (or explicitly states that there is no sharing policy in place).")),
-                                  tags$span("Encouraged",
-                                            tags$i(class = "glyphicon glyphicon-info-sign",
-                                                   style = "color:#888; margin-left:5px; cursor:help;",
-                                                   `data-toggle` = "tooltip", `data-placement` = "right",
-                                                   title = "The journal has a posted policy that encourages (but does not require) authors to share their data and/or code with the published article.")),
-                                  tags$span("Required",
-                                            tags$i(class = "glyphicon glyphicon-info-sign",
-                                                   style = "color:#888; margin-left:5px; cursor:help;",
-                                                   `data-toggle` = "tooltip", `data-placement` = "right",
-                                                   title = "The journal has a posted policy that requires authors to share their data and/or code with the published article (but the journal does not verify the results).")),
-                                  tags$span("Verified",
-                                            tags$i(class = "glyphicon glyphicon-info-sign",
-                                                   style = "color:#888; margin-left:5px; cursor:help;",
-                                                   `data-toggle` = "tooltip", `data-placement` = "right",
-                                                   title = "The journal has a posted policy that requires authors to share their data and/or code with the published article and the journal verifies the results."))
-                                ),
-                                choiceValues = policy_levels,
-                                selected     = policy_levels,
-                                inline       = FALSE
-             )
+                                choices  = unified_levels,
+                                selected = unified_levels,
+                                inline   = FALSE),
+             div(class = "filter-note",
+                 "Policy tiers are shown on the 2024 scale. 2008 results are mapped: ",
+                 "Weak Policy \u2192 Encouraged, Strong Policy \u2192 Required. ",
+                 "\"Verified\" was not assessed in 2008, so it only appears from 2024 onward.")
            )
     ),
     
     # ── Main panel ───────────────────────────────────────────────────────────
     column(9,
            
-           # KPI row
+           # KPI row (reflects whichever year(s) are selected)
            fluidRow(
              column(3, div(class = "kpi-box",
                            div(class = "num", textOutput("kpi_no_policy")),
@@ -102,6 +90,10 @@ ui <- fluidPage(
            br(),
            
            tabsetPanel(
+             tabPanel("Policy over time",
+                      br(),
+                      plotOutput("bar_year", height = "420px")
+             ),
              tabPanel("Policy breakdown",
                       br(),
                       plotOutput("bar_publisher", height = "420px")
