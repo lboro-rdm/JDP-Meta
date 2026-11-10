@@ -26,11 +26,11 @@ The literature library for this project (Zotero) is here:
 
 If you use this project, please cite:
 
-> Skelly, Lara. (2026). JDP-Meta: a project synthesising all the evidence from studies looking at journal data policies. Retrieved from https://lboro-rdm.github.io/JDP-Meta/
+> Skelly, Lara. (2026). JDP-Meta: a meta-synthesis of journals' data policies. Retrieved from https://lboro-rdm.github.io/JDP-Meta/
 
 ## Acknowledgements
 
-I am grateful for the generosity of fellow researchers: Heather Piwowar who sent me her data and gave me a giggle and Katherine McCain who shared her paper despite being retired.
+I am grateful for the generosity of fellow researches: Heather Piwowar who shared her data and gave me a giggle, and Katherine McCain who sent me her paper despite being retired.
 
 ---
 *Formerly hosted on OSF; migrated here in 2026. Last updated 2026-11-10*
