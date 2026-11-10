@@ -9,7 +9,7 @@ The interactive Shiny app for this project is here:
 
 ## Code & Data
 
-Source code and data for this project live in this same [GitHub repository](https://github.com/lboro-rdm/JDP-Meta.git) — MIT Licence
+Source code and data for this project on this [GitHub repository](https://github.com/lboro-rdm/JDP-Meta.git) — MIT Licence
 
 ## Method Notes
 
@@ -26,9 +26,9 @@ The literature library for this project (Zotero) is here:
 
 If you use this project, please cite:
 
-> [Your name]. (2026). *[Project title]*. Retrieved from [repo URL]
+> Skelly, Lara. (2026). JDP-Meta: a meta-synthesis of journals' data policies. Retrieved from https://lboro-rdm.github.io/JDP-Meta/
 
 ---
-*Formerly hosted on OSF; migrated here in 2026.*
+*Formerly hosted on OSF; migrated here in 2026. Last updated 2026-11-10*
 
 <!-- rmarkdown::render("docs/index.md") -->
